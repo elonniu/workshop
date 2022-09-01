@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+/.idea/
+/src/bedrock/vendor/
+/src/bedrock/web/app/themes/
+/tmp/opcache/
+/tmp/mysql/
+/tmp/redis/
